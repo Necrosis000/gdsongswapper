@@ -1,4 +1,4 @@
-# ![Icon](https://imgur.com/a/8gORdJq)
+# ![Icon](https://imgur.com/G81NLyz)
 ### Credit to: [@LXanii](https://www.github.com/LXanii) for this idea
 
 ## How does this work?

@@ -1,2 +1,2 @@
 # gdsongswapper
-## Credit to: @LXanni for this idea
+### Credit to: [@LXanii] (https://www.github.com/LXanii) for this idea

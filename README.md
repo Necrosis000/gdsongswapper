@@ -1,4 +1,4 @@
-# GD Song Swapper
+# ![Icon](https://imgur.com/a/8gORdJq)
 ### Credit to: [@LXanii](https://www.github.com/LXanii) for this idea
 
 ## How does this work?

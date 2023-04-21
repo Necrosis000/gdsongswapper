@@ -1,5 +1,5 @@
 # ![Icon](https://i.imgur.com/G81NLyz.png)
-### Credit to: [@LXanii](https://www.github.com/LXanii) for this idea
+### Credit to: [@LXanii](https://www.github.com/LXanii) for the original program (I got permission to make this)
 
 ## How does this work?
 This is a pretty simple program but basically you just click the: 'Browse' button and find the file you are going to use to replace the file
